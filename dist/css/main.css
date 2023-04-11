@@ -144,7 +144,7 @@
 .about__bio-image {
   height: 100%;
   padding-top: 40vh;
-  background: linear-gradient(to right, rgba(15, 4, 114, 0.9), rgba(15, 4, 114, 0.3)), url("https://raw.githubusercontent.com/feyizoglu/portfolio/main/img/TF.JPG") center top;
+  background: linear-gradient(to right, rgba(15, 4, 114, 0.9), rgba(15, 4, 114, 0.3)), center top;
   background-size: cover;
   display: flex;
   flex-direction: column;
